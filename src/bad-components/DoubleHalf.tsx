@@ -33,7 +33,7 @@ function Halver({
                 setDhValue(dhValue / 2);
             }}
         >
-            Halve
+            Halver
         </Button>
     );
 }

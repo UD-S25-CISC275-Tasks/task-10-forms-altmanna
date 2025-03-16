@@ -4,7 +4,6 @@ import { Button } from "react-bootstrap";
 export const COLORS = ["red", "blue", "green"];
 const DEFAULT_COLOR_INDEX = 0;
 
-//Used ChatGPT to help me with the function headers
 function ChangeColor({
     setColorIndex,
 }: {
